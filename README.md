@@ -32,8 +32,8 @@ output.csv
 </table>
   
 # Flow
-1. 
-
+1. Convert URL to domain.<br>
+2. Send the URL to function prepared like this depend on the domain.<br>
 ```perl
   if($domain eq 'http://www.chara-ani.com'){
     &cara($url,$limiter);
@@ -51,4 +51,14 @@ output.csv
     &yamada($url,$limiter);
   }
   ```
+3. So. if you wnat to get information from another shop, you need to make new function.<br>
+4. Get the HTML and extract URL of individual page of merchandise.<br>
+5. From the individual page of merchandise, extract JAN code, price and name of merchandise.<br>
+6. Repeat above according to the URLs.<br>
+
+# Licence
+
+# Author
+Shuto Kawabata
+
 
