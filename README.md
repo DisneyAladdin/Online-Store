@@ -64,6 +64,7 @@ output.csv
 
 <img src="https://github.com/shutokawabata0723/Online-Store/blob/master/onilne1.png">
 
+<img src="https://github.com/shutokawabata0723/Online-Store/blob/master/online2.png">
 
 
 2. Run by `Perl schime.pl`
