@@ -28,7 +28,7 @@ For example,<br>
 output.csv
 
 <table>
-  <th>JAN code<th>name of the merchandise<th>price<th>URL
+  <th>JAN code<th>name of the merchandise<th>price<th>URL of merchandise
 </table>
   
 # Flow
