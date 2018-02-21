@@ -57,7 +57,7 @@ output.csv
 3. So. if you wnat to get information from another shop, you need to make new function.<br>
 4. Get the HTML and extract URL of individual page of merchandise.<br>
 5. From the individual page of merchandise, extract JAN code, price and name of merchandise.<br>
-6. Repeat above according to the URLs.<br>
+6. Repeat above according to number of the URLs.<br>
 
 # Usage
 1. Save URL of shop to input file, input.csv.<br>
