@@ -60,6 +60,8 @@ output.csv
 1. Save URL of shop to input file, input.csv.<br>
 (As an example, if you want "farber", you neet to check button, "５１件表示" to repeat flow "5." for 51 times.)<br>
 (If you want to search 200 items on "farber" shop, 4 URLs are needed.)<br>
+(A collection of some shops are saved in "input" directory. Therefore, if you want use the URLs, only copy the csv files as "input.csv".)<br>
+
 
 2. Run by `Perl schime.pl`
 
