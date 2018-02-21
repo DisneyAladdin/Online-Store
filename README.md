@@ -38,5 +38,6 @@ For example,<br>
     &nojima($url,$limiter);
   }elsif($domain eq 'http://www.yamada-denkiweb.com'){
     &yamada($url,$limiter);
-  }```
+  }
+  ```
 
