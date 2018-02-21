@@ -62,6 +62,9 @@ output.csv
 (If you want to search 200 items on "farber" shop, 4 URLs are needed.)<br>
 (A collection of some shops are saved in "input" directory. Therefore, if you want use the URLs, only copy the csv files as "input.csv".)<br>
 
+<img src="https://github.com/shutokawabata0723/Online-Store/blob/master/onilne1.png">
+
+
 
 2. Run by `Perl schime.pl`
 
