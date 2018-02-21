@@ -13,11 +13,11 @@ input.csv<br>
 List of URL<br>
 URL is a catalog page of the store.<br>
 For example,<br>
-caraani: 20 items on the catalog page<br>
-hobby stock: 24 items on the catalog page<br>
-farber: 52 items on the catalog page<br>
-K's denki: 96 items on the catalog page<br>
-big camera: 100 items on the catalog page<br>
-Yamada denki: 20 items on the catalog page<br>
-nojima denki: 15 items on the catalog page<br>
+・caraani: 20 items on the catalog page<br>
+・hobby stock: 24 items on the catalog page<br>
+・farber: 52 items on the catalog page<br>
+・K's denki: 96 items on the catalog page<br>
+・big camera: 100 items on the catalog page<br>
+・Yamada denki: 20 items on the catalog page<br>
+・nojima denki: 15 items on the catalog page<br>
 
