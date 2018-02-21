@@ -56,7 +56,28 @@ output.csv
 5. From the individual page of merchandise, extract JAN code, price and name of merchandise.<br>
 6. Repeat above according to the URLs.<br>
 
+# Usage
+1. Save URL of shop to input file, input.csv.<br>
+(As an example, if you want "farber", you neet to check button, "５１件表示" to repeat flow "5." for 51 times.)<br>
+(If you want to search 200 items on "farber" shop, 4 URLs are needed.)<br>
+
+2. Run by `Perl schime.pl`
+
+3. Check the output file, output.csv
+
+
+
+
+
+
+
 # Licence
+
+CopyRight (c) 2018 Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
 
 # Author
 Shuto Kawabata
