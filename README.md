@@ -2,7 +2,7 @@
 Obtain JAN code and Price information from online stores by scraping and extracting.
 
 
-<img src="https://github.com/shutokawabata0723/Online-Store/blob/master/online.png" width="800px">
+<img src="https://github.com/shutokawabata0723/Online-Store/blob/master/online.png" width="500px">
 
 # Purpose
 Automatically obtain JAN code and price of merchandise from online stores.
