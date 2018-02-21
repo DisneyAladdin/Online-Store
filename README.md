@@ -68,6 +68,9 @@ output.csv
 3. Check the output file, output.csv
 
 
+# Caution
+Amazon prohibits scraping. So, now I do not use scraping for getting Amazon data but code to scrape from amazon has already wrriten. <br>
+If you want to get from Amazon, Amazon API is available for creaters.
 
 
 
