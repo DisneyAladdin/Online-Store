@@ -23,7 +23,8 @@ For example,<br>
 
 
 # program
-`if($domain eq 'http://www.chara-ani.com'){
+```perl
+  if($domain eq 'http://www.chara-ani.com'){
     &cara($url,$limiter);
   }elsif($domain eq 'http://www.hobbystock.jp'){
     &hobby_stock($url,$limiter);
@@ -37,5 +38,5 @@ For example,<br>
     &nojima($url,$limiter);
   }elsif($domain eq 'http://www.yamada-denkiweb.com'){
     &yamada($url,$limiter);
-  }`
+  }```
 
