@@ -22,3 +22,20 @@ For example,<br>
 `・nojima denki: 15 items on the catalog page`<br>
 
 
+# program
+`if($domain eq 'http://www.chara-ani.com'){
+    &cara($url,$limiter);
+  }elsif($domain eq 'http://www.hobbystock.jp'){
+    &hobby_stock($url,$limiter);
+  }elsif($domain eq 'https://shop.faber-hobby.jp'){
+    &faber($url,$limiter);
+  }elsif($domain eq 'http://www.ksdenki.com'){
+    &Ks($url,$limiter);
+  }elsif($domain eq 'http://www.biccamera.com'){
+    &big($url,$limiter);
+  }elsif($domain eq 'https://online.nojima.co.jp'){
+    &nojima($url,$limiter);
+  }elsif($domain eq 'http://www.yamada-denkiweb.com'){
+    &yamada($url,$limiter);
+  }`
+
