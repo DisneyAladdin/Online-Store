@@ -9,8 +9,10 @@ Find discounted merchandise by commaring with Amazon or another store.
 
 # Contents
 ## input file
-input.csv<br>
-List of URL<br>
+input.csv
+
+List of URL
+
 URL is a catalog page of the store.<br>
 For example,<br>
 `・caraani: 20 items on the catalog page`<br>
@@ -22,7 +24,16 @@ For example,<br>
 `・nojima denki: 15 items on the catalog page`<br>
 
 
-# program
+## output file
+output.csv
+
+<table>
+  <th>JAN code<th>name of the merchandise<th>price
+</table>
+  
+# Flow
+1. 
+
 ```perl
   if($domain eq 'http://www.chara-ani.com'){
     &cara($url,$limiter);
